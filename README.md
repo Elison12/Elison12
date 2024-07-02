@@ -5,6 +5,7 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="kubernetes" width="55" height="55"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
