@@ -1,6 +1,6 @@
 
-- 🏦 Desenvolvendor de tudo essa porra mesmo
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 "Eu não programo, eu faço amor"
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 - 🧑‍💻 Atualmente trabalhando com :
 
 <p align="center">
